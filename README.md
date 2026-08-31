@@ -61,6 +61,7 @@ cd leetcode-75-solutions
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -68,6 +69,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -104,4 +106,8 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->

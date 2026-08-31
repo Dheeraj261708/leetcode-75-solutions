@@ -76,4 +76,8 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 <!---LeetCode Topics End-->

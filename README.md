@@ -54,6 +54,7 @@ cd leetcode-75-solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -110,4 +111,20 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 <!---LeetCode Topics End-->

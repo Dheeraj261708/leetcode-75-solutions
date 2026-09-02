@@ -80,6 +80,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ cd leetcode-75-solutions
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

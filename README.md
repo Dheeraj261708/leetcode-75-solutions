@@ -47,6 +47,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +172,8 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->

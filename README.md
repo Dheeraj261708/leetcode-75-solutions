@@ -71,6 +71,7 @@ cd leetcode-75-solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -129,6 +130,7 @@ cd leetcode-75-solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Tree
 | Problem Name | Difficulty |

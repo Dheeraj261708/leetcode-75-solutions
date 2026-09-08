@@ -142,12 +142,14 @@ cd leetcode-75-solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ cd leetcode-75-solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -162,6 +165,7 @@ cd leetcode-75-solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |

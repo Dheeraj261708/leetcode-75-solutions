@@ -141,6 +141,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -148,6 +149,7 @@ cd leetcode-75-solutions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -164,6 +166,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -200,4 +203,8 @@ cd leetcode-75-solutions
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->

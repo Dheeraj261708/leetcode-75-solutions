@@ -105,6 +105,7 @@ cd leetcode-75-solutions
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0835-image-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0835-image-overlap/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -199,6 +200,7 @@ cd leetcode-75-solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |

@@ -116,6 +116,7 @@ cd leetcode-75-solutions
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -198,6 +199,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sorting

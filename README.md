@@ -108,6 +108,7 @@ cd leetcode-75-solutions
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0835-image-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0835-image-overlap/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -134,6 +135,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |

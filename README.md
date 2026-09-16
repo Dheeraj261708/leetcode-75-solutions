@@ -50,11 +50,13 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +285,8 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->

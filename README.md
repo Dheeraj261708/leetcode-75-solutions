@@ -63,6 +63,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ cd leetcode-75-solutions
 | [0443-string-compression](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |

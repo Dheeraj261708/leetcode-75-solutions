@@ -62,6 +62,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers

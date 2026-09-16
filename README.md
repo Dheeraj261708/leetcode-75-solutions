@@ -56,6 +56,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ cd leetcode-75-solutions
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0443-string-compression/) | Medium |
+| [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -142,6 +144,7 @@ cd leetcode-75-solutions
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Prefix Sum

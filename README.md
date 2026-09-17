@@ -129,6 +129,7 @@ cd leetcode-75-solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -172,6 +173,7 @@ cd leetcode-75-solutions
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -220,6 +222,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -248,6 +251,7 @@ cd leetcode-75-solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -262,6 +266,7 @@ cd leetcode-75-solutions
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |

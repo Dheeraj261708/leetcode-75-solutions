@@ -45,6 +45,7 @@ cd leetcode-75-solutions
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0394-decode-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ cd leetcode-75-solutions
 | [0328-odd-even-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ cd leetcode-75-solutions
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |

@@ -121,6 +121,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -276,6 +277,7 @@ cd leetcode-75-solutions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |

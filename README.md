@@ -224,6 +224,7 @@ cd leetcode-75-solutions
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@ cd leetcode-75-solutions
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -362,6 +364,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

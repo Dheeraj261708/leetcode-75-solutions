@@ -105,6 +105,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -331,6 +332,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

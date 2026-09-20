@@ -81,6 +81,7 @@ cd leetcode-75-solutions
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ cd leetcode-75-solutions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -323,6 +325,7 @@ cd leetcode-75-solutions
 | [2069-walking-robot-simulation-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -408,6 +411,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |

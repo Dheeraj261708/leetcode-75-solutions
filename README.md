@@ -134,6 +134,7 @@ cd leetcode-75-solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -358,6 +359,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |

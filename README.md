@@ -111,6 +111,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -200,6 +201,7 @@ cd leetcode-75-solutions
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -451,4 +453,8 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->

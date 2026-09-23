@@ -146,6 +146,7 @@ cd leetcode-75-solutions
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -183,6 +184,7 @@ cd leetcode-75-solutions
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -209,6 +211,7 @@ cd leetcode-75-solutions
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |

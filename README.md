@@ -336,6 +336,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0338-counting-bits/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

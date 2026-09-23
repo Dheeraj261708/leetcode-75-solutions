@@ -132,6 +132,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0198-house-robber/) | Medium |
@@ -331,6 +332,7 @@ cd leetcode-75-solutions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |

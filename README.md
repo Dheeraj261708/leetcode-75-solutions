@@ -89,6 +89,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0072-edit-distance](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -208,6 +209,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0072-edit-distance](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |

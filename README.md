@@ -99,6 +99,7 @@ cd leetcode-75-solutions
 | [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -211,6 +212,7 @@ cd leetcode-75-solutions
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -471,4 +473,8 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->

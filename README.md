@@ -212,6 +212,7 @@ cd leetcode-75-solutions
 | [0072-edit-distance](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -332,6 +333,7 @@ cd leetcode-75-solutions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0338-counting-bits/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

@@ -137,6 +137,7 @@ cd leetcode-75-solutions
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0136-single-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -333,6 +334,7 @@ cd leetcode-75-solutions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0338-counting-bits/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix

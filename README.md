@@ -47,6 +47,7 @@ cd leetcode-75-solutions
 | [0735-asteroid-collision](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
@@ -105,6 +106,7 @@ cd leetcode-75-solutions
 | [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -296,6 +298,7 @@ cd leetcode-75-solutions
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -326,6 +329,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -343,6 +347,7 @@ cd leetcode-75-solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -407,6 +412,7 @@ cd leetcode-75-solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |

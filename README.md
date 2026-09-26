@@ -113,6 +113,7 @@ cd leetcode-75-solutions
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -176,6 +177,7 @@ cd leetcode-75-solutions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -336,6 +338,7 @@ cd leetcode-75-solutions
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |

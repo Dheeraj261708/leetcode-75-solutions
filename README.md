@@ -49,6 +49,7 @@ cd leetcode-75-solutions
 | [0901-online-stock-span](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
@@ -113,6 +114,7 @@ cd leetcode-75-solutions
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -534,4 +536,5 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->

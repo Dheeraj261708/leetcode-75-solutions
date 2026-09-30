@@ -48,6 +48,7 @@ cd leetcode-75-solutions
 | [0739-daily-temperatures](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -109,6 +110,7 @@ cd leetcode-75-solutions
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -538,6 +540,7 @@ cd leetcode-75-solutions
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |

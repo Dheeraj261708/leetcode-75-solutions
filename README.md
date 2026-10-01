@@ -72,6 +72,7 @@ cd leetcode-75-solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -82,6 +83,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0061-rotate-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |

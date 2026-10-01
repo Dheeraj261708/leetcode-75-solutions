@@ -42,6 +42,7 @@ cd leetcode-75-solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0394-decode-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -97,6 +98,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -540,6 +542,7 @@ cd leetcode-75-solutions
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

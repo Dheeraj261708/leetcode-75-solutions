@@ -131,6 +131,7 @@ cd leetcode-75-solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |

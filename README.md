@@ -263,6 +263,7 @@ cd leetcode-75-solutions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -288,6 +289,7 @@ cd leetcode-75-solutions
 | [0450-delete-node-in-a-bst](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -308,6 +310,7 @@ cd leetcode-75-solutions
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -347,6 +350,7 @@ cd leetcode-75-solutions
 | [0450-delete-node-in-a-bst](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -448,6 +452,7 @@ cd leetcode-75-solutions
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Recursion

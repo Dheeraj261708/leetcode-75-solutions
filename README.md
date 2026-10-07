@@ -51,6 +51,7 @@ cd leetcode-75-solutions
 | [0739-daily-temperatures](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -118,6 +119,7 @@ cd leetcode-75-solutions
 | [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -225,6 +227,7 @@ cd leetcode-75-solutions
 | [0649-dota2-senate](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -562,6 +565,7 @@ cd leetcode-75-solutions
 | [0032-longest-valid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

@@ -111,6 +111,7 @@ cd leetcode-75-solutions
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0394-decode-string/) | Medium |
@@ -326,6 +327,7 @@ cd leetcode-75-solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -448,6 +450,7 @@ cd leetcode-75-solutions
 | [0022-generate-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0113-path-sum-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |

@@ -78,6 +78,7 @@ cd leetcode-75-solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -144,6 +145,7 @@ cd leetcode-75-solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -470,6 +472,7 @@ cd leetcode-75-solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |

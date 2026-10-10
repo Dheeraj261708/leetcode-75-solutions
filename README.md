@@ -208,6 +208,7 @@ cd leetcode-75-solutions
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -236,6 +237,7 @@ cd leetcode-75-solutions
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Prefix Sum
@@ -394,6 +396,7 @@ cd leetcode-75-solutions
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bit Manipulation
@@ -429,6 +432,7 @@ cd leetcode-75-solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -533,6 +537,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |

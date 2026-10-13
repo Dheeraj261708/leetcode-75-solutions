@@ -221,6 +221,7 @@ cd leetcode-75-solutions
 | [3525-find-x-value-of-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -243,6 +244,7 @@ cd leetcode-75-solutions
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +404,7 @@ cd leetcode-75-solutions
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

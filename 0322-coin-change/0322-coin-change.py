@@ -5,23 +5,12 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-        memo={}
-        def f(rem):
-            if rem == 0:
-                return 0
-            if rem < 0:
-                return float('inf')
+        dp = [float('inf')] * (amount + 1)
+        dp[0] = 0
 
-            if rem in memo:
-                return memo[rem]
-
-            ans = float('inf')
-
+        for i in range(1, amount + 1):
             for coin in coins:
-                ans = min(ans, 1 + f(rem - coin))
+                if i >= coin:
+                    dp[i] = min(dp[i], 1 + dp[i - coin])
 
-            memo[rem] = ans
-            return ans
-
-        result = f(amount)
-        return result if result != float('inf') else -1
+        return dp[amount] if dp[amount] != float('inf') else -1

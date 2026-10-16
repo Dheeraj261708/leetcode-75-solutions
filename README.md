@@ -181,6 +181,7 @@ cd leetcode-75-solutions
 | [0216-combination-sum-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -270,6 +271,7 @@ cd leetcode-75-solutions
 | [0072-edit-distance](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -343,6 +345,7 @@ cd leetcode-75-solutions
 | [0199-binary-tree-right-side-view](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0322-coin-change](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -608,4 +611,12 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->

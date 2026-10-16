@@ -217,6 +217,7 @@ cd leetcode-75-solutions
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -395,6 +396,7 @@ cd leetcode-75-solutions
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sorting
@@ -573,6 +575,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -611,6 +614,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -207,6 +207,7 @@ cd leetcode-75-solutions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |

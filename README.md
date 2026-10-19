@@ -209,6 +209,7 @@ cd leetcode-75-solutions
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -417,6 +418,7 @@ cd leetcode-75-solutions
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -456,6 +458,7 @@ cd leetcode-75-solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |

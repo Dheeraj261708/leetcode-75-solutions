@@ -142,6 +142,7 @@ cd leetcode-75-solutions
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

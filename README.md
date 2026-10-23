@@ -231,6 +231,7 @@ cd leetcode-75-solutions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -438,6 +439,7 @@ cd leetcode-75-solutions
 | [0338-counting-bits](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

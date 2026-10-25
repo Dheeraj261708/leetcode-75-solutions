@@ -203,6 +203,7 @@ cd leetcode-75-solutions
 | [0994-rotting-oranges](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -346,6 +347,7 @@ cd leetcode-75-solutions
 | [0968-binary-tree-cameras](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -367,6 +369,7 @@ cd leetcode-75-solutions
 | [0994-rotting-oranges](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -447,6 +450,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -558,6 +562,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |

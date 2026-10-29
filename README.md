@@ -143,6 +143,7 @@ cd leetcode-75-solutions
 | [2409-count-days-spent-together](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@ cd leetcode-75-solutions
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -332,6 +334,7 @@ cd leetcode-75-solutions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +360,7 @@ cd leetcode-75-solutions
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,6 +454,7 @@ cd leetcode-75-solutions
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -590,6 +595,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -617,6 +623,7 @@ cd leetcode-75-solutions
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -656,6 +663,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |

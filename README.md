@@ -145,6 +145,7 @@ cd leetcode-75-solutions
 | [3498-reverse-degree-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,6 +571,7 @@ cd leetcode-75-solutions
 | [0547-number-of-provinces](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +584,7 @@ cd leetcode-75-solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -605,6 +608,7 @@ cd leetcode-75-solutions
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -152,6 +152,7 @@ cd leetcode-75-solutions
 | [0002-add-two-numbers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -193,6 +194,7 @@ cd leetcode-75-solutions
 | [0399-evaluate-division](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |

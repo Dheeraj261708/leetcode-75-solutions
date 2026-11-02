@@ -153,6 +153,7 @@ cd leetcode-75-solutions
 | [0009-palindrome-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -195,6 +196,7 @@ cd leetcode-75-solutions
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -438,6 +440,7 @@ cd leetcode-75-solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |

@@ -224,6 +224,7 @@ cd leetcode-75-solutions
 | [1732-find-the-highest-altitude](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -623,6 +624,7 @@ cd leetcode-75-solutions
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dheeraj261708/leetcode-75-solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
